@@ -1,0 +1,29 @@
+.sortButton,
+.newGameButton {
+  cursor: pointer;
+  border: none;
+  padding: 5px 10px;
+  margin-top: 20px;
+  border-radius: 20px;
+  background: #ffffff;
+  box-shadow: 9px 9px 18px #d9d9d9,
+    -9px -9px 18px #ffffff;
+}
+
+.newGameButton {
+  margin: 20px 0 50px 0;
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 50px;
+}
+
+.gameInfo {
+  width: 300px;
+}
+
+.status {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
